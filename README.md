@@ -1,1 +1,1 @@
-*Đây là 1 số bài cơ bản ngôn ngữ AssemblyAssembly*
+*This is some basic code Assembly*
